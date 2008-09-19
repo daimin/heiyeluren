@@ -1,6 +1,4 @@
-=tmhttpd help document=
-=== ===
-=== ===
+
 
 === tmhttpd - The tiny and mini Http Server ===
 
@@ -18,8 +16,6 @@ It implements all the basic features of an HTTP
   *  ...
 
 
-=== ===
-=== ===
 === ===
 === ===
 
