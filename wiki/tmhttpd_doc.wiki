@@ -1,6 +1,6 @@
 #summary One-sentence summary of this page.
 
-=== tmhttpd - TieMa (Tiny&Mini) Http Server ===
+=== tmhttpd - The tiny and mini Http Server ===
 
 tmhttpd is a very small HTTP server. It run from daemon.
 It implements all the basic features of an HTTP
