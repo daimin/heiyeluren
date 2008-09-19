@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#tmhttpd help document
 
 === tmhttpd - The tiny and mini Http Server ===
 
