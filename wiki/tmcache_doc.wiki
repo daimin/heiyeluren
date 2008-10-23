@@ -1,4 +1,4 @@
-#summary tmhttpd help document
+#summary tmcache help document
 
 === tmcache - TieMa(Tiny&Mini) Memory Cache Server (Daemon) ===
 
