@@ -1,4 +1,3 @@
-
 = TrainTicketsSpider =
 
 火车票抓取工具是一个用来抓取火车票的工具，主要针对国内(China)的用户使用。
@@ -12,6 +11,7 @@
 祝大家新春愉快，早点回家过年！！
 
 .Net Framework 2.0下载： 
-下载地址1：http://www.microsoft.com/downloads/details.aspx?FamilyID=0856EACB-4362-4B0D-8EDD-AAB15C5E04F5&displaylang=zh-cn
 
-下载地址2：http://www.onlinedown.net/soft/38669.htm
+  * 下载地址1：http://download.microsoft.com/download/5/6/7/567758a3-759e-473e-bf8f-52154438565a/dotnetfx.exe
+
+  * 下载地址2：http://www.onlinedown.net/soft/38669.htm
