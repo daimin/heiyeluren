@@ -17,3 +17,36 @@
   * 目前只能支持root账户进行软件安装
   * 缺省软件都会安装在 /usr/local/
   * 暂时只支持Linux系统，在一些开启了SELinux 的系统上需要关闭 selinux 才能正常安装
+
+== 命令帮助 ==
+{{{
+==============================================
+ LNMP Soft Install Shell Script  Help Usage
+==============================================
+Option              Help
+----------------------------------------------
+help            - Print Help
+dl              - Download LNMP soft
+mysql           - Install MySQL Server
+rm_mysql        - Remove MySQL Server
+php             - Install PHP & PHP-FPM
+php_ext         - Remove PHP Extensions
+rm_php          - Remove PHP All File
+nginx           - Install Nginx
+rm_nginx        - Remove Nginx
+memcached       - Install Memcached
+rm_memcached    - Remove Memcached
+all             - Install all server
+rm_all          - Remove all server
+
+===============================================
+Usage Example: 
+
+lnmp_install.sh dl
+lnmp_install.sh all
+lnmp_install.sh mysql
+lnmp_install.sh php
+lnmp_install.sh php_ext
+lnmp_install.sh nginx   
+===============================================
+}}}
