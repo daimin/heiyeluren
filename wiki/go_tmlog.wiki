@@ -1,4 +1,4 @@
-#Golang implement logging library
+# Golang implement logging library
 
 = [ Golang日志库: go-tmlog 使用说明文件 ] =
 
